@@ -1,0 +1,89 @@
+body {
+	font-family: sans-serif ;
+	color:white ;
+	background-color: black ;
+	
+}
+
+h1,h2 {
+	font-size: xx-large;
+	color: red;
+	font-family: emoji;
+	
+}
+
+a{
+	background-color:green ;
+	color: white;
+	padding: 8px ;
+	margin: 8px ;
+	border-radius: 30px ;
+	transition:
+		color 2s,
+		background-color 1s ;
+	
+}
+
+a:hover{
+	background-color:black ;
+	color: white;
+	font-weight: bold;
+	
+}
+
+#titulo {
+	font-family: "Honk", sans-serif;
+	color:blue; 
+	text-align: center;
+	font-size: xxx-large
+}
+
+#TEST {
+	font-family: "Honk", sans-serif;
+	color:blue; 
+	text-align: center;
+	font-size: xxx-large
+}
+#AMD {
+	font-family: "Workbench", sans-serif;
+	color:red; 
+	font-size: xxx-large
+}
+
+#AYUDA {
+		font-family: "Honk", sans-serif;
+	color:blue; 
+	text-align: center;
+	font-size: xxx-large
+}
+#navbar {
+	text-align:center;
+}
+
+
+* {
+  border-collapse: collapse;
+}
+table {
+  width: 100%;
+  margin-top: 1rem;
+}
+td,
+th {
+  border: 1px solid white;
+}
+
+
+thead {
+	background: blue ;
+	border:4px solid white;
+	
+}
+
+.dato-paises-cap {
+	text-align: center;
+}
+
+.emoji {
+	font-family: "Noto Color Emoji" ;
+
